@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshit Agarwal
 - 👀 I’m interested in Python and HTML
-- 🌱 I’m currently learning Python and I know basics if HTML
+- 🌱 I’m currently learning Python and I know basics of HTML
 
 - 
 - 😄 Pronouns: ...
