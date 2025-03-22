@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Akshit Agarwal
-- 👀 I’m interested in Python and HTML
+- 👀 I’m interested in Python and Web Development 
 - 🌱 I’m currently learning Python and I know basics of HTML
-
-- 
+- I am a 14 year old eager to know about new developments in technology and artificial intelligence 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
